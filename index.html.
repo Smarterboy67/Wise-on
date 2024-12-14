@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wise.On - Study Smarter</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="logo">Wise.On</div>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#resources">Resources</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="hero">
+    <h1>Welcome to Wise.On</h1>
+    <p>Your ultimate study partner for a brighter future. Learn smarter, not harder.</p>
+    <a href="#resources" class="cta-button">Start Learning</a>
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Wise.On is a free, ad-free platform designed to help students achieve their goals with curated resources and motivational tools.</p>
+  </section>
+
+  <section id="resources">
+    <h2>Study Resources</h2>
+    <div class="resources-grid">
+      <div class="resource-item">
+        <h3>Math Guides</h3>
+        <p>Master equations, geometry, and more with our step-by-step tutorials.</p>
+      </div>
+      <div class="resource-item">
+        <h3>Language Tips</h3>
+        <p>Improve your grammar, vocabulary, and communication skills.</p>
+      </div>
+      <div class="resource-item">
+        <h3>Science Simplified</h3>
+        <p>Understand key concepts with easy-to-follow explanations.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Have questions or feedback? Reach out to us!</p>
+    <a href="#" class="cta-button">Email Us</a>
+  </section>
+
+  <footer>
+    <p>© 2024 Wise.On. All rights reserved. | <a href="#">Privacy Policy</a></p>
+  </footer>
+</body>
+</html>
